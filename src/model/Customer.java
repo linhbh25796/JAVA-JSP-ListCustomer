@@ -3,7 +3,7 @@ package model;
 import java.util.Date;
 
 public class Customer {
-    private  String name;
+    private String name;
     private String birth;
     private String address;
     private String image;
